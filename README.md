@@ -25,11 +25,27 @@ Here are some ideas to get you started:
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/cb/cbad8974b5928d9e4878525b25d64c2d_w200.gif">
 </div>
   
+  ### I'm from Brazil 🇧🇷
+  
+- 🔭 I’m currently working on Zapfácil
+- 🚀 Currently studying back-end in NodeJS, C# and .net
+- 💻 Student at the University of Sergipe (UFS)
+- 🧠 I am a Back-End Develop. 
+- 🎯 Focused on back-end development and information security
+- 💻 Student at the University of Brasilia (UnB)
+<br><br>
+
+<div align='center'>
+  
+  
+</div>
+  
    ##
   
   <div>
     <a href="https://www.linkedin.com/in/breno-andrade-6b7b95196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:Breno.75887@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+    <a href="mailto:Breno.75887@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/brenao_e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </div>
    
    
