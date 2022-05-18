@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 - 💻 Student at the University of Sergipe (UFS)
 - 🧠 I am a Back-End Develop. 
 - 🎯 Focused on back-end development and information security
+  
+ ![Snake animation](https://github.com/Bren0Andrad3/Bren0Andrad3/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
    
